@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6009f32.css",
-    "main.js": "/static/js/main.e3334abd.js",
-    "static/media/starwar.png": "/static/media/starwar.f404e6a854fd43c80551.png",
-    "static/media/jerry2.png": "/static/media/jerry2.a509e534aa3f11de93e1.png",
-    "static/media/portf1.png": "/static/media/portf1.79d1429bef09696b138c.png",
-    "static/media/404page.png": "/static/media/404page.669834839262545f9b19.png",
-    "static/media/jerrypic.jpg": "/static/media/jerrypic.3ff8d4b1fafcec729729.jpg",
+    "main.css": "/static/css/main.00d37cf5.css",
+    "main.js": "/static/js/main.e62ef40b.js",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
-    "static/media/ecommerce.png": "/static/media/ecommerce.028c495fe69437272138.png",
-    "static/media/bg-image-code.jpg": "/static/media/bg-image-code.f2093ace46766212aaa5.jpg",
     "index.html": "/index.html",
-    "main.f6009f32.css.map": "/static/css/main.f6009f32.css.map",
-    "main.e3334abd.js.map": "/static/js/main.e3334abd.js.map"
+    "main.00d37cf5.css.map": "/static/css/main.00d37cf5.css.map",
+    "main.e62ef40b.js.map": "/static/js/main.e62ef40b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6009f32.css",
-    "static/js/main.e3334abd.js"
+    "static/css/main.00d37cf5.css",
+    "static/js/main.e62ef40b.js"
   ]
 }
